@@ -1,6 +1,3 @@
-src="https://img.shields.io/github/forks/Mkr404-Cyber/RND.svg"/>
-  </a>
-</div>
 
 </br>
 <p align="center">
