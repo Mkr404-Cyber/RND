@@ -4,7 +4,7 @@ import os, sys, time
 A = '\x1b[1;92m'
 B = '\x1b[1;97m'
 os.system('clear')
-print(f'\n\n{A} MKR ONLINE{B}\n\n');time.sleep(2)
+print(f'\n\n{A} MKR PERMANENTLY OFLINE{B}\n\n');time.sleep(2)
 
 import platform
 os.system('xdg-open https://crackbdofficial.blogspot.com')
